@@ -1,0 +1,7 @@
+COSA DEVO SAPERE?
+In ogni istante di tempo io devo sapere qual è il quartiere su cui sto lavorando e quanti hotspot ho gia servito o sto già
+servendo di quel quartiere.
+All'inizio assegno i primi tecnici agli hotspot basta.
+Quando si libera un tecnico cosa succede?
+- se ci sono altri hotspot da revisionare nello stesso quartiere si sposta su uno di questi
+- se invece non c'è più nessun hotspot aspetta che gli altri finiscano e vi spostate in blocco
